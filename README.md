@@ -17,6 +17,17 @@ It extracts:
 
 ---
 
+## 🔗 Table of Contents
+
+- [Features](features)
+- [Technologies Used](technologies-used)
+- [Project Structure](project-structure)
+- [How It Works](how-it-works)
+- [Learning Outcome](learning-outcomes)
+- [Author](author)
+
+---       
+
 ## 🚀 Features
 
 * Scrapes multiple pages (1–10)
