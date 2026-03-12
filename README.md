@@ -63,17 +63,12 @@ README.md
 2. Parses HTML content using BeautifulSoup
 3. Finds all quote containers (`div.quote`)
 4. Extracts:
-
    * Quote text (`span.text`)
    * Author name (`small.author`)
    * Tags (`a.tag`)
 5. Stores data inside a list of dictionaries
 6. Converts the list into a Pandas DataFrame
 7. Exports the DataFrame to `quotes_info.csv`
-
----
-
-
 
 ---
 
@@ -92,7 +87,7 @@ Example:
 
 ## 🎯 Learning Outcome
 
-By completing this project, you will understand:
+By completing this project, I will understand:
 
 * How HTTP requests work
 * How to parse HTML structure
