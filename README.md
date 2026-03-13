@@ -40,10 +40,10 @@ It extracts:
 
 ## 🛠️ Technologies Used
 
-* Python 
-* requests
-* beautifulsoup
-* pandas
+* `Python` 
+* `requests`
+* `beautifulsoup (bs4)`
+* `pandas`
 
 ---
 
