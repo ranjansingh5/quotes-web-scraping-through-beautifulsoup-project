@@ -81,7 +81,7 @@ The generated CSV file contains:
 
 Example:
 
-| “Life is what happens...” | John Lennon | life, inspirational |
+| “Life is what happens....” | John Lennon | life, inspirational |
 
 ---
 
